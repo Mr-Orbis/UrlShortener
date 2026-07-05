@@ -1,0 +1,8 @@
+{
+  "name": "codealpha-url-shortener",
+  "version": "1.0.0",
+  "description": "CodeAlpha Backend Internship - Task 1: Simple URL Shortener",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2", "better-sqlite3": "^11.3.0" }
+}
